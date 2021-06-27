@@ -1,3 +1,27 @@
+# Amazon Clone with React JS
+
+![Amazon Clone]()
+
+:point_right: [Amazon Clone Demo]()
+
+Demo app simulating Amazon.  
+
+🟢 React hooks, useEffect 
+
+🟢 React Router 
+
+🟢 React Context API for state management 
+ 
+🟢 Material UI 
+
+🟢 Firebase for user authentication, database, and hosting 
+
+🟢 React currency format 
+
+ 
+
+This app was created using [Clever Programmer tutorials]().
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
