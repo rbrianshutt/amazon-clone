@@ -1,6 +1,6 @@
 # Amazon Clone with React JS
 
-![Amazon Clone]()
+![Amazon Clone](amazon-clone.gif)
 
 :point_right: [Amazon Clone Demo](https://clone-2f3e4.web.app/)
 
