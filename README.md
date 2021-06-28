@@ -2,7 +2,7 @@
 
 ![Amazon Clone]()
 
-:point_right: [Amazon Clone Demo]()
+:point_right: [Amazon Clone Demo](https://clone-2f3e4.web.app/)
 
 Demo app simulating Amazon.  
 
@@ -20,7 +20,7 @@ Demo app simulating Amazon.
 
  
 
-This app was created using [Clever Programmer tutorials]().
+This app was created using [Clever Programmer tutorials](https://www.youtube.com/watch?v=1_IYL9ZMR_Y&t=742s).
 
 # Getting Started with Create React App
 
