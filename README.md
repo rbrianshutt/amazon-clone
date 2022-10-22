@@ -18,9 +18,7 @@ Demo app simulating Amazon.
 
 🟢 React currency format 
 
- 
 
-This app was created using [Clever Programmer tutorials](https://www.youtube.com/watch?v=1_IYL9ZMR_Y&t=742s).
 
 # Getting Started with Create React App
 
